@@ -10,5 +10,5 @@ func main() {
 	Assignments.Student1()
 	fmt.Print("hello world")
 	fmt.Print("hello world 2")
-	fmt.Print("hello world 3")
+	fmt.Print("hello world 4")
 }
