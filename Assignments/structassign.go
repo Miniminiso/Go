@@ -7,7 +7,7 @@ type Student struct {
 	Marks []int
 }
 
-func main() {
+func Student1() {
 	student := Student{
 		Name:  "Sahithi",
 		Marks: []int{10, 9, 8},
