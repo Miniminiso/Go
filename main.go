@@ -9,4 +9,5 @@ func main() {
 	Assignments.Studentstruct()
 	Assignments.Student1()
 	fmt.Print("hello world")
+	fmt.Print("hello world 2")
 }
