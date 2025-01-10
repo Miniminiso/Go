@@ -1,4 +1,4 @@
-package practiceanon
+package Assignments
 
 import "fmt"
 
