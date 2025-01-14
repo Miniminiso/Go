@@ -1,14 +1,9 @@
 package main
 
-import (
-	"fmt"
-	"wifi/Assignments"
-)
+import "wifi/Assignments"
 
 func main() {
-	Assignments.Studentstruct()
-	Assignments.Student1()
-	fmt.Print("hello world")
-	fmt.Print("hello world 2")
-	fmt.Print("hello world 3")
+	//Assignments.Studentstruct()
+	//Assignments.Student1()
+	Assignments.NewBook()
 }
